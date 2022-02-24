@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aaguirre7/portfolio-generator#readme",
   "dependencies": {
+    "enquirer": "^2.3.6",
     "inquirer": "^8.2.0"
   }
 }
